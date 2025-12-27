@@ -1,0 +1,23 @@
+# What is Angular
+
+**English:**
+
+Angular is a popular open-source web application framework developed and maintained by Google.
+It's used for building dynamic, single-page applications (SPAs) and complex web interfaces.
+Angular uses TypeScript as its primary programming language and follows a component-based architecture, 
+where applications are built from reusable, modular components. 
+It provides developers with a comprehensive toolkit including features like two-way data binding, 
+dependency injection, routing, form handling, and HTTP services. 
+Angular is known for its structured approach to development, making it particularly suitable for 
+large-scale enterprise applications where maintainability and scalability are important.
+
+**Portuguese:**
+
+Angular é um framework de código aberto popular para aplicações web, desenvolvido e mantido pela Google. 
+É usado para construir aplicações dinâmicas de página única (SPAs) e interfaces web complexas. 
+O Angular utiliza TypeScript como sua linguagem de programação principal e segue uma arquitetura 
+baseada em componentes, onde as aplicações são construídas a partir de componentes reutilizáveis e modulares. 
+Fornece aos desenvolvedores um kit de ferramentas abrangente que inclui recursos como vinculação de dados bidirecional,
+injeção de dependências, roteamento, manipulação de formulários e serviços HTTP. 
+O Angular é conhecido pela sua abordagem estruturada ao desenvolvimento, tornando-o particularmente adequado para 
+aplicações empresariais de grande escala onde a manutenibilidade e escalabilidade são importantes.
